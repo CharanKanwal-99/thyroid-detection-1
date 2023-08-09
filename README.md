@@ -1,0 +1,1 @@
+The project aims to leverage machine learning for the task of thyroid detection using several health indicators. The dataset for the project has been exported to a csv file from a Cassandra Database. Flask is the web framework used for deployment and the application has also been containerized using a docker container.
